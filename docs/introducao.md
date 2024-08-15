@@ -11,9 +11,13 @@ Os objetivos desta aplicação visam sensibilizar os idosos sobre a importância
 
 ## Problema
 
-Como vimos anteriormente, a população idosa em todo o mundo enfrenta desafios significativos à medida que envelhece e um dos problemas mais preponderante é o sedentarismo. Dado isto, as pessoas idosas se mostram cada vez mais sedentárias, pouco engajadas e na grande maioria das vezes possuem poucas informações quando o assunto se trata de uma vida mais saudável e mais ativa fisicamente.
+Como vimos anteriormente, a população idosa em todo o mundo enfrenta desafios significativos relacionados ao sedentarismo, o que pode levar a questões graves como a solidão e a depressão. Com o envelhecimento, muitos idosos experimentam uma diminuição das interações sociais e da perda de habilidades para realizar atividades prazerosas. Esses fatores contribuem para um aumento nos níveis de solidão e depressão, impactando negativamente a qualidade de vida. 
 
-Por consequência, percebe-se a necessidade de uma solução tecnológica, na qual seja capaz de auxiliar e manter os usuários engajados quando se trata de uma vida fisicamente ativa e fornecer suporte de profissionais da área.
+Exercícios físicos liberam endorfinas, melhorando o humor e a autoestima, além de promoverem oportunidades de socialização, que são cruciais para o bem-estar emocional. 
+
+Por consequência, percebe-se a necessidade de uma solução tecnológica, na qual seja capaz de auxiliar e manter os usuários engajados quando se trata de uma vida fisicamente ativa e que forneça suporte de profissionais da área.
+
+O projeto Senectus têm o potencial de transformar a forma como os idosos abordam sua saúde e bem-estar, ajudando a superar os desafios do sedentarismo, da solidão e da depressão, e melhorando significativamente sua qualidade de vida.
 
 ## Objetivos
 
