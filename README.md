@@ -10,11 +10,11 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
+* Bruno Alfeu Mendes de Araújo
 * Gabriel Amâncio de Oliveira
 * Guilherme de Souza Mendonça Silva
 * Isaac Samuel de Carvalho
-* Bruno Alfeu Mendes de Araújo
-* Nome completo do aluno 5
+* Matheus Godinho Blaselbauer
 * Nome completo do aluno 6
 
 ## Orientador
