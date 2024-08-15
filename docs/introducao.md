@@ -15,9 +15,9 @@ Como vimos anteriormente, a população idosa em todo o mundo enfrenta desafios 
 
 Exercícios físicos liberam endorfinas, melhorando o humor e a autoestima, além de promoverem oportunidades de socialização, que são cruciais para o bem-estar emocional. 
 
-Por consequência, percebe-se a necessidade de uma solução tecnológica, na qual seja capaz de auxiliar e manter os usuários engajados quando se trata de uma vida fisicamente ativa e que forneça suporte de profissionais da área.
+Por consequência, percebe-se a necessidade de uma solução tecnológica e prática, na qual seja capaz de auxiliar e manter os usuários engajados quando se trata de uma vida fisicamente ativa e que forneça suporte de profissionais da área.
 
-O projeto Senectus têm o potencial de transformar a forma como os idosos abordam sua saúde e bem-estar, ajudando a superar os desafios do sedentarismo, da solidão e da depressão, e melhorando significativamente sua qualidade de vida.
+O projeto Senectus busca então, solucionar esse problmea, de forma didática sempre instruindo o usúario e focando na forma como os idosos abordam sua saúde e bem-estar, ajudando a superar os desafios do sedentarismo, da solidão e da depressão, e melhorando significativamente sua qualidade de vida.
 
 ## Objetivos
 
