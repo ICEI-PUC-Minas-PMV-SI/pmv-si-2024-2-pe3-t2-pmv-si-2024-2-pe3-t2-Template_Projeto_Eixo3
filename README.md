@@ -1,4 +1,4 @@
-# Título do Projeto
+# Doe Aqui
 
 `CURSO: Sistemas de Informação`
 
@@ -10,16 +10,16 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Gabriel Amâncio de Oliveira
+* Guilherme de Souza Mendonça Silva
+* Isaac Samuel de Carvalho
+* Bruno Alfeu Mendes de Araújo
 * Nome completo do aluno 5
 * Nome completo do aluno 6
 
 ## Orientador
 
-* Nome completo do professor 
+* Fábio Martins de Oliveira
 
 # Planejamento
 
