@@ -11,13 +11,11 @@ Os objetivos desta aplicação visam sensibilizar os idosos sobre a importância
 
 ## Problema
 
-Como vimos anteriormente, a população idosa em todo o mundo enfrenta desafios significativos relacionados ao sedentarismo, o que pode levar a questões graves como a solidão e a depressão. Com o envelhecimento, muitos idosos experimentam uma diminuição das interações sociais e da perda de habilidades para realizar atividades prazerosas. Esses fatores contribuem para um aumento nos níveis de solidão e depressão, impactando negativamente a qualidade de vida. 
+Como vimos anteriormente, a população idosa em todo o mundo enfrenta desafios significativos relacionados ao sedentarismo, o que pode levar a questões graves como a solidão e a depressão. Com o envelhecimento, muitos idosos experimentam uma diminuição das interações sociais e da perda de habilidades para realizar atividades prazerosas. Esses fatores contribuem para um aumento nos níveis de solidão e depressão, impactando negativamente a qualidade de vida. Em contrapartida, os e exercícios físicos liberam endorfinas, melhorando o humor e a autoestima, além de promoverem oportunidades de socialização, cruciais para o bem-estar emocional. 
 
-Exercícios físicos liberam endorfinas, melhorando o humor e a autoestima, além de promoverem oportunidades de socialização, que são cruciais para o bem-estar emocional. 
+Sendo assim, percebe-se a necessidade de uma solução tecnológica e prática, na qual seja capaz de auxiliar e manter os usuários engajados quando se trata de uma vida fisicamente ativa e forneça suporte de profissionais da área.
 
-Por consequência, percebe-se a necessidade de uma solução tecnológica e prática, na qual seja capaz de auxiliar e manter os usuários engajados quando se trata de uma vida fisicamente ativa e que forneça suporte de profissionais da área.
-
-O projeto Senectus busca então, solucionar esse problmea, de forma didática sempre instruindo o usúario e focando na forma como os idosos abordam sua saúde e bem-estar, ajudando a superar os desafios do sedentarismo, da solidão e da depressão, e melhorando significativamente sua qualidade de vida.
+O projeto Senectus busca, então, solucionar esse problema, de forma didática, sempre instruindo o usuário e focando na forma como os idosos abordam sua saúde e bem-estar, ajudando a superar os desafios do sedentarismo, da solidão e da depressão, e melhorando significativamente sua qualidade de vida.
 
 ## Objetivos
 
