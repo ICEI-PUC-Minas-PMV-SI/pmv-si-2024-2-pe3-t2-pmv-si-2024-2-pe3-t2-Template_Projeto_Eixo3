@@ -4,14 +4,17 @@ A atividade física desempenha um papel vital na qualidade de vida, especialment
 
 Segundo a Organização Pan-Americana da Saúde (OPAS, 2021)[1], na América Latina, 8% da população tinha 65 anos ou mais em 2020 e atualmente estima-se que tal dado tende a dobrar até o ano de 2025 e exceder os 30% até o final do século. A medida com que este grupo cresce cada vez mais, a importância de manter uma vida fisicamente ativa se torna mais nítida, isso ocorre devido à inatividade física que é um dos principais fatores de riscos para doenças não transmissíveis, como doenças cardiovasculares, diabete tipo 2, câncer e obesidade; também está associada a uma maior probabilidade de quedas e fraturas, perda de massa muscular e óssea, e declínio cognitivo.
 
+Além dos benefícios físicos, a atividade física tem um impacto significativo na saúde mental dos idosos. Estudos demonstram que o exercício regular pode reduzir os sintomas de depressão e ansiedade, melhorar a função cognitiva e aumentar a autoestima. A liberação de endorfinas durante a atividade física contribui para uma sensação de bem-estar e ajuda a combater a solidão, um problema comum entre os idosos. O envolvimento em atividades físicas também proporciona oportunidades de socialização, o que é crucial para o bem-estar emocional e pode retardar o declínio cognitivo.
+
 Dado esse contexto, fica clara a necessidade de uma solução que não apenas foque no engajamento do usuário em exercícios físicos, mas que preste o suporte adequado por meio de profissionais de saúde e que forneça informações importantes sobre os exercícios em questão. Para assim, evitar possíveis lesionamentos em pessoas inexperientes. É nesse cenário que nasce "Senectus", uma aplicação dedicada a promover a atividade física entre os idosos e proporcionar uma melhor qualidade de vida aos usuários.
 
-Os objetivos desta aplicação visam sensibilizar os idosos sobre a importância da atividade física regular em suas vidas, fornecendo orientações personalizadas e recursos que se adaptem às suas condições físicas. 
-
+Os objetivos desta aplicação visam sensibilizar os idosos sobre a importância da atividade física regular em suas vidas, fornecendo orientações personalizadas e recursos que se adaptem às suas condições físicas.
 
 ## Problema
 
-Como vimos anteriormente, a população idosa em todo o mundo enfrenta desafios significativos relacionados ao sedentarismo, o que pode levar a questões graves como a solidão e a depressão. Com o envelhecimento, muitos idosos experimentam uma diminuição das interações sociais e da perda de habilidades para realizar atividades prazerosas. Esses fatores contribuem para um aumento nos níveis de solidão e depressão, impactando negativamente a qualidade de vida. Em contrapartida, os e exercícios físicos liberam endorfinas, melhorando o humor e a autoestima, além de promoverem oportunidades de socialização, cruciais para o bem-estar emocional. 
+Como vimos anteriormente, a população idosa em todo o mundo enfrenta desafios significativos relacionados ao sedentarismo, o que pode levar a questões graves como a solidão e a depressão. Com o envelhecimento, muitos idosos experimentam uma diminuição das interações sociais e da perda de habilidades para realizar atividades prazerosas. Esses fatores contribuem para um aumento nos níveis de solidão e depressão, impactando negativamente a qualidade de vida. Em contrapartida, os e exercícios físicos liberam endorfinas, melhorando o humor e a autoestima, além de promoverem oportunidades de socialização, cruciais para o bem-estar emocional.
+
+Entretanto, os exercícios físicos não apenas melhoram a saúde física, mas também desempenham um papel essencial na saúde mental. Atividades como caminhadas, yoga e musculação são eficazes na redução dos níveis de estresse e na melhora do humor e da autoestima. Estudos indicam que a prática regular de exercícios físicos pode retardar a progressão de transtornos neuropsiquiátricos e aumentar a qualidade do sono, outro fator crucial para a saúde mental dos idosos. Além disso, a socialização promovida pela prática de atividades em grupo tem um efeito protetor contra o isolamento social e seus efeitos deletérios.
 
 Sendo assim, percebe-se a necessidade de uma solução tecnológica e prática, na qual seja capaz de auxiliar e manter os usuários engajados quando se trata de uma vida fisicamente ativa e forneça suporte de profissionais da área.
 
@@ -55,12 +58,12 @@ Por fim, estes dados alarmantes só mostram a necessidade de atenção à saúde
 
 Portanto, a justificativa para essa iniciativa é respaldada pela necessidade de melhorar a saúde e o bem-estar dos idosos, tornando a terceira idade uma fase da vida mais vibrante e ativa. Cabe destacar que o projeto propõe melhorias em relação a sistemas que já se encontram no mercado,proporcionando uma ferramenta deferenciada para a prática de exercício Destacamos abaixo, uma breve comparação de aplicações semelhantes:
 
-| Critério | Yoga Exercises for Seniors [2] | SilverSneakers GO [3]| Workout [4]| Senectus |
+| Critério | Yoga Exercises for Seniors [2] | SilverSneakers GO [3] | Workout [4] | Senectus |
 | --- | --- | --- | --- | --- |
 | Público-alvo voltado para idosos | ✅ | ✅ | ✅ | ✅ |
 | Guia de exercícios práticos | ✅ | ✅ | ✅ | ✅ |
 | Solução simples e pensada no usuário | ❌ | ✅ | ✅ | ✅ |
-| Acompanhamento com profissionais qualificados  | ❌ | ❌ | ❌ | ✅ |
+| Acompanhamento com profissionais qualificados | ❌ | ❌ | ❌ | ✅ |
 
 ## Público-alvo
 
@@ -91,5 +94,5 @@ Stakeholders terciários, em geral, não possuem a intenção de utilizar a apli
 
 - **Familiares dos idosos**: Não pretendem utilizar a aplicação, mas serão impactados por ela, gerando interesse indireto na plataforma devido ao fato de melhorar a saúde e condicionamento físico de seus entes queridos.
 - **Cuidadores de idosos:** Profissionais que acompanham e auxiliam idosos em uma variedade de cuidados.
-  
-![MapaDeStakeholders](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t2-senectus/assets/92616145/c96f36c2-0944-4c32-9d6a-7a53bd05efb2 "Figura 1: Mapa de Stakholderns")
+
+![MapaDeStakeholders](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t2-senectus/assets/92616145/c96f36c2-0944-4c32-9d6a-7a53bd05efb2 'Figura 1: Mapa de Stakholderns')
