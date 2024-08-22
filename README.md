@@ -1,4 +1,4 @@
-# Título do Projeto
+# Senectus
 
 `CURSO: Sistemas de Informação`
 
@@ -6,31 +6,30 @@
 
 `SEMESTRE: 3º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto Senectus visa desenvolver uma aplicação web voltada aos idosos para os engajar em atividades físicas, retardando o aumento de indivíduos sedentários no Brasil e melhorando a qualidade de vida dos usuários.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+- Gabriel Ferreira dos Santos
+- Hugo Freitas da Cruz
+- Joao Pedro Reis Martins
+- Júlia Persson Mascari
+- Nicolas Cleiton Basilio Viana
+- Vinicius Henrique de Oliveira Neves
 
 ## Orientador
 
-* Nome completo do professor 
+- Fábio Martins de Oliveira
 
 # Planejamento
 
-| Etapa         | Atividades |
-|  :----:   | ----------- |
-| ETAPA 1         |[Introdução](docs/introducao.md) <br> [Estado da Arte](docs/estado.md) <br> [Referências](docs/referencias.md) |
-| ETAPA 2         |[Especificação de Requisitos de Software](docs/especificacao.md) |
-| ETAPA 3         |[Design de Interação](docs/design.md) |
-| ETAPA 4        |[Testes de Software](docs/testes.md) |
-| ETAPA 5         | [Apresentação](docs/apresentacao.md) |
-
+| Etapa | Atividades |
+| :-: | --- |
+| ETAPA 1 | [Introdução](docs/introducao.md) <br> [Estado da Arte](docs/estado.md) <br> [Referências](docs/referencias.md) |
+| ETAPA 2 | [Especificação de Requisitos de Software](docs/especificacao.md) |
+| ETAPA 3 | [Design de Interação](docs/design.md) |
+| ETAPA 4 | [Testes de Software](docs/testes.md) |
+| ETAPA 5 | [Apresentação](docs/apresentacao.md) |
 
 # Código
 
