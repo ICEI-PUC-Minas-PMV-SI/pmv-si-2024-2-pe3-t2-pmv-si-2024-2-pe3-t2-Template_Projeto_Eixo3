@@ -1,10 +1,8 @@
 # 2. ESTADO DA ARTE
-O estado da arte é um mapeamento de toda a produção acadêmica sobre um assunto específico, aqui especificamente sobre o tema escolhido para o seu trabalho. A ideia consiste em reunir as conclusões que outras pesquisas científicas chegaram sobre um determinado assunto. Neste momento você deverá buscar respostas para as seguintes perguntas:
+O estado da arte sobre as doações no Brasil, conforme evidenciado na "Pesquisa Doação Brasil 2022", revela um cenário complexo e multifacetado. Pesquisas recentes, como a conduzida pelo IDIS, têm explorado a dinâmica das doações no país, destacando aspectos como a motivação dos doadores, o impacto das doações e os desafios enfrentados pelo setor.
 
-1.	Quais pesquisas estão sendo desenvolvidas sobre esse tema?
-2.	Quem está pesquisando e onde?
-3.	O que as atuais pesquisas científicas concluíram sobre o tema? 
-4.	Quais as divergências dos pesquisadores sobre o assunto? 
-5.	Quais aspectos carecem de maior abordagem?
+No Brasil, as principais pesquisas estão sendo desenvolvidas por institutos como o IDIS (Instituto para o Desenvolvimento do Investimento Social) e em universidades que focam em filantropia e economia social. Essas pesquisas têm concluído que, apesar de uma cultura de doação crescente, existem barreiras significativas, como a falta de confiança nas instituições e a necessidade de maior transparência e comunicação das organizações que recebem doações.
 
-É importante referenciar estas pesquisas, fazendo as devidas citações de acordo com as normas da ABNT e colocando as referências completas ao final do trabalho.
+Há divergências notáveis entre os pesquisadores quanto ao impacto das doações no desenvolvimento social e a eficácia das estratégias de captação de recursos. Enquanto alguns estudiosos defendem que as doações desempenham um papel crucial na redução das desigualdades sociais, outros argumentam que a falta de uma estrutura mais robusta limita esse impacto.
+
+Aspectos que carecem de maior abordagem incluem a influência das campanhas digitais na captação de doações e o papel das novas gerações na redefinição da cultura de doação no Brasil. Essas lacunas sugerem a necessidade de pesquisas mais detalhadas que possam fornecer insights para fortalecer o setor.
