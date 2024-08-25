@@ -1,10 +1,11 @@
 # 2. ESTADO DA ARTE
-O estado da arte é um mapeamento de toda a produção acadêmica sobre um assunto específico, aqui especificamente sobre o tema escolhido para o seu trabalho. A ideia consiste em reunir as conclusões que outras pesquisas científicas chegaram sobre um determinado assunto. Neste momento você deverá buscar respostas para as seguintes perguntas:
 
-1.	Quais pesquisas estão sendo desenvolvidas sobre esse tema?
-2.	Quem está pesquisando e onde?
-3.	O que as atuais pesquisas científicas concluíram sobre o tema? 
-4.	Quais as divergências dos pesquisadores sobre o assunto? 
-5.	Quais aspectos carecem de maior abordagem?
+O impacto da atividade física na saúde e no bem-estar tem sido amplamente reconhecido, com diversos benefícios físicos e mentais para todas as fases da vida. Ao contrário, o sedentarismo é um fator de risco para diversas doenças crônicas, como hipertensão e diabete, e é particularmente preocupante entre as mulheres adultas, das quais 70,2% apresentam excesso de peso e mais de 37% possuem obesidades, de acordo com dados da Sesa (Secretaria de Estado da Saúde).
 
-É importante referenciar estas pesquisas, fazendo as devidas citações de acordo com as normas da ABNT e colocando as referências completas ao final do trabalho.
+A atividade física, além de promover uma melhor qualidade de vida, tem efeitos positivos sobre a saúde mental e o desempenho cognitivo. Pesquisas como a conduzida pela Universidade de Radboud e Edimburgo, publicada na revista Current Biology, demonstram que o exercício físico realizado após o aprendizado melhora significativamente a retenção de memória. Um de seus estudos, que envolveu 72 participantes, mostrou que aqueles que se exercitaram após 4 horas de realizarem atividades relacionadas a aprendizagem e memorização, tiveram melhor desempenho em testes de memória, com maior precisão nas representações no hipocampo.
+
+Estudos feitos pela Universidade Católica de Pelotas, demonstram que quanto mais ativa for a pessoa, melhor será a sua qualidade de vida, melhorando sua resistência, motivação, respiração, mas também aspectos psicológicos e cognitivos.
+
+Esses achados são corroborados por experiências pessoais de estudantes, como Caio Valente e Mylena Casarin, que relataram melhorias no bem-estar e na capacidade de estudo após a prática regular de exercícios físicos. Instituições como o Einstein têm investido em centros de esportes e bem-estar, como o CEEBE, para proporcionar aos alunos espaços que combinam a prática de atividades físicas com a socialização, promovendo uma saúde integral.
+
+Por fim, apesar de existir um grande consenso da comunidade cientifica a respeito dos problemas que o sedentarismo pode trazer e os benefícios que uma vida ativa traz consigo, um dos aspectos que mais carecem de abordagem é a intervenção por meio de soluções tecnológicas para os idosos no Brasil. No ponto de vista dos ecossistemas de aplicações web, mobile e ambientes virtuais em si, são poucos que dão suporte principalmente para o público idoso, aplicações como o Yoga Exercises For Seniors e SilverSneakers são grandes exemplos de sistemas que visam realizar intervenções do tipo, mas demonstram vários problemas, como interface pouco intuitivas - principalmente quando se trata deste tipo de público - e não possuem nenhuma proposta de acompanhamento de profissionais da saúde, tornando a situação de sua base de usuários ainda mais insegura, correndo risco até mesmo de criarem lesionamentos desnecessários.
