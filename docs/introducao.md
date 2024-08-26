@@ -12,16 +12,16 @@ As doações desempenham um papel crucial no suporte a ONGs e pessoas em situaç
 
 **Principais Problemas Identificados:**
 
-**Dificuldade na Navegação e Usabilidade:**
+* Dificuldade na Navegação e Usabilidade:
 Muitos sites de doações possuem interfaces complexas e pouco intuitivas, o que pode confundir e desmotivar potenciais doadores. A falta de uma navegação simples e clara faz com que o processo de doação seja percebido como demorado e complicado, o que pode resultar na desistência antes da conclusão da doação.
 
-**Falta de Transparência e Confiança:**
+* Falta de Transparência e Confiança:
 Outro problema significativo é a falta de transparência em relação ao destino das doações. Doadores frequentemente questionam se suas contribuições estão realmente sendo usadas para o propósito desejado. Essa falta de clareza pode gerar desconfiança, reduzindo a disposição das pessoas em doar.
 
-**Complexidade para ONGs e Indivíduos que Recebem Doações:**
+* Complexidade para ONGs e Indivíduos que Recebem Doações:
 Para as ONGs e indivíduos que necessitam de doações, a administração e o gerenciamento das campanhas podem ser complicados. Muitas vezes, as ferramentas oferecidas pelos sites de doações são limitadas, dificultando a comunicação com doadores, a personalização das campanhas, e a gestão eficiente dos recursos arrecadados.
 
-**Acessibilidade Limitada:**
+* Acessibilidade Limitada:
 Nem todos os sites de doações são acessíveis a pessoas com deficiência ou a públicos que não estão familiarizados com tecnologia. Isso exclui uma parcela significativa da população que poderia contribuir, mas que encontra barreiras técnicas ou de design que tornam a experiência frustrante ou inviável.
 
 ## 1.2. Objetivos do trabalho
@@ -32,15 +32,15 @@ O objetivo geral deste trabalho é desenvolver um software, na forma de um site 
 
 **Objetivos Específicos**
 
-**Desenvolver uma Interface de Usuário Intuitiva e Acessível:**
+* Desenvolver uma Interface de Usuário Intuitiva e Acessível:
 Criar um design simples e claro que permita aos doadores navegar facilmente pelo site e completar suas doações de forma rápida e sem complicações.
 Garantir que a plataforma seja acessível a todos os públicos, incluindo pessoas com deficiência, por meio da implementação de práticas de design universal.
 
-**Implementar Mecanismos de Transparência e Confiança:**
+* Implementar Mecanismos de Transparência e Confiança:
 Desenvolver funcionalidades que permitam aos doadores rastrear suas doações e verificar o impacto gerado, aumentando a transparência e a confiança no processo.
 Integrar ferramentas que garantam a autenticidade das ONGs e campanhas apresentadas no site, minimizando o risco de fraudes e garantindo a segurança das transações.
 
-**Fornecer Ferramentas de Gestão Eficientes para ONGs e Indivíduos:**
+* Fornecer Ferramentas de Gestão Eficientes para ONGs e Indivíduos:
 Desenvolver um painel administrativo para ONGs e indivíduos que possibilite a gestão eficiente das campanhas de doação, incluindo funcionalidades para personalização, comunicação com doadores, e acompanhamento dos resultados.
 
 
