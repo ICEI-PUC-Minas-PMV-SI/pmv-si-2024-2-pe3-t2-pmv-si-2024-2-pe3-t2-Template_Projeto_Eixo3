@@ -29,9 +29,12 @@ O projeto Senectus visa desenvolver uma aplicação web voltada aos idosos para 
 ### Objetivos específicos
 
 1. Conscientizar os idosos sobre a importância da realização de atividade física.
-2. Organizar parcerias com profissionais de saúde para fornecer serviços especializados aos usuários na plataforma.
-3. Aplicar uma interface fácil de usar e intuitiva para garantir que os usuários possam acessar facilmente todas as informações e recursos oferecidos pela plataforma Senectus.
-4. Fornecer uma biblioteca ampla de exercícios físicos.
+2. Organizar parcerias com grupos e instituições da área para possibilitar a criação de eventos de atividade física presenciais.
+3. Organizar parcerias com profissionais de saúde para fornecer serviços especializados aos usuários na plataforma.
+4. Aplicar uma interface fácil de usar e intuitiva para garantir que os usuários possam acessar facilmente todas as informações e recursos oferecidos pela plataforma Senectus.
+5. Fornecer uma biblioteca ampla de exercícios físicos.
+6. Conectar o público idoso por meio de eventos físicos e remotos promovidos por grupos da área.
+7. Promover acessibilidade para o público idoso menos experiente em tecnologias por meio de tutoriais e outras fontes informativas.
 
 ## Justificativa
 
