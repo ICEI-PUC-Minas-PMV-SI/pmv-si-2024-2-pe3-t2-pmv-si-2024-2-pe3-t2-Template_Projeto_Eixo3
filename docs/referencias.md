@@ -15,3 +15,7 @@
 **[7]** - _Paula Lopes, Ana. Fatores associados à inatividade física em idosos. Revista Brasileira de Geriatria e Gerontologia, 2017._
 
 **[8]** - _Ekelund, Anne. Global trends in physical activity levels among older adults. The Lancet, 2019._
+
+**[9]** - _Saúde destaca os benefícios da atividades físicas em todas as fases da vida. Disponível em: https://www.saude.pr.gov.br/Noticia/Saude-destaca-os-beneficios-da-atividades-fisicas-em-todas-fases-da-vida#:~:text=A%20atividade%20f%C3%ADsica%20reduz%20o,a%20socializa%C3%A7%C3%A3o%20e%20a%20conviv%C3%AAncia_
+
+**[10]** - Estudo demonstra benefícios da atividade física para o aprendizado. Disponivel em: _https://ensinoepesquisa.einstein.br/fiquepordentro/noticia/pesquisa-demonstra-beneficios-da-atividade-fisica-para-o-aprendizado_
