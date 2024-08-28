@@ -1,37 +1,37 @@
 # Introdução
 
-A atividade física desempenha um papel vital na qualidade de vida, especialmente para a população idosa. No entanto, muitas pessoas que se encontram na idade avançada enfrentam desafios para manter um estilo de vida ativo, seja devido a limitações físicas ou à falta de incentivo e oportunidades.
+A atividade física desempenha um papel vital na qualidade de vida, especialmente para a população idosa. No entanto, a manutenção de um estilo de vida ativo na terceira idade pode ser desafiadora devido a limitações físicas ou à falta de incentivo e oportunidades.
 
-Segundo a Organização Pan-Americana da Saúde (OPAS, 2021)[1], na América Latina, 8% da população tinha 65 anos ou mais em 2020 e atualmente estima-se que tal dado tende a dobrar até o ano de 2025 e exceder os 30% até o final do século. A medida com que este grupo cresce cada vez mais, a importância de manter uma vida fisicamente ativa se torna mais nítida, isso ocorre devido à inatividade física que é um dos principais fatores de riscos para doenças não transmissíveis, como doenças cardiovasculares, diabete tipo 2, câncer e obesidade; também está associada a uma maior probabilidade de quedas e fraturas, perda de massa muscular e óssea, e declínio cognitivo.
+Segundo a Organização Pan-Americana da Saúde (OPAS, 2021)[1], na América Latina, 8% da população tinha 65 anos ou mais em 2020, e estima-se que esse percentual dobrará até 2025, podendo exceder os 30% até o final do século. À medida que esse grupo cresce, a importância de manter uma vida fisicamente ativa se torna mais evidente, dado que a inatividade física é um dos principais fatores de risco para doenças não transmissíveis, como doenças cardiovasculares, diabetes tipo 2, câncer e obesidade. Além disso, está associada a um maior risco de quedas e fraturas, perda de massa muscular e óssea, e declínio cognitivo.
 
-Além dos benefícios físicos, a atividade física tem um impacto significativo na saúde mental dos idosos. Estudos demonstram que o exercício regular pode reduzir os sintomas de depressão e ansiedade, melhorar a função cognitiva e aumentar a autoestima. A liberação de endorfinas durante a atividade física contribui para uma sensação de bem-estar e ajuda a combater a solidão, um problema comum entre os idosos. O envolvimento em atividades físicas também proporciona oportunidades de socialização, o que é crucial para o bem-estar emocional e pode retardar o declínio cognitivo.
+Além dos benefícios físicos, a atividade física tem um impacto significativo na saúde mental dos idosos. Estudos indicam que o exercício regular pode reduzir os sintomas de depressão e ansiedade, melhorar a função cognitiva e aumentar a autoestima. A liberação de endorfinas durante a atividade física contribui para uma sensação de bem-estar e ajuda a combater a solidão, um problema comum entre os idosos. O envolvimento em atividades físicas também proporciona oportunidades de socialização, o que é crucial para o bem-estar emocional e pode retardar o declínio cognitivo.
 
-Dado esse contexto, fica clara a necessidade de uma solução que não apenas foque no engajamento do usuário em exercícios físicos, mas que preste o suporte adequado por meio de profissionais de saúde e que forneça informações importantes sobre os exercícios em questão. Para assim, evitar possíveis lesionamentos em pessoas inexperientes. É nesse cenário que nasce "Senectus", uma aplicação dedicada a promover a atividade física entre os idosos e proporcionar uma melhor qualidade de vida aos usuários.
+Considerando esse cenário, emerge a necessidade de uma solução que não apenas promova o engajamento dos idosos em exercícios físicos, mas que também ofereça suporte adequado por meio de profissionais de saúde, além de fornecer informações importantes sobre os exercícios realizados, a fim de evitar possíveis lesões em pessoas inexperientes. É nesse contexto que "Senectus" surge como uma aplicação dedicada a promover a atividade física entre os idosos e a proporcionar uma melhor qualidade de vida aos seus usuários.
 
-Os objetivos desta aplicação visam sensibilizar os idosos sobre a importância da atividade física regular em suas vidas, fornecendo orientações personalizadas e recursos que se adaptem às suas condições físicas.
+Os objetivos desta aplicação incluem sensibilizar os idosos sobre a importância da atividade física regular em suas vidas, fornecendo orientações personalizadas e recursos adaptados às suas condições físicas.
 
 ## Problema
 
-Como vimos anteriormente, a população idosa em todo o mundo enfrenta desafios significativos relacionados ao sedentarismo, o que pode levar a questões graves como a solidão e a depressão. Com o envelhecimento, muitos idosos experimentam uma diminuição das interações sociais e da perda de habilidades para realizar atividades prazerosas. Esses fatores contribuem para um aumento nos níveis de solidão e depressão, impactando negativamente a qualidade de vida. Em contrapartida, os e exercícios físicos liberam endorfinas, melhorando o humor e a autoestima, além de promoverem oportunidades de socialização, cruciais para o bem-estar emocional.
+A população idosa em todo o mundo enfrenta desafios significativos relacionados ao sedentarismo, que podem levar a questões graves como a solidão e a depressão. Com o envelhecimento, muitos idosos experimentam uma diminuição das interações sociais e perdem a capacidade de realizar atividades prazerosas, o que contribui para o aumento dos níveis de solidão e depressão, impactando negativamente a qualidade de vida. Por outro lado, os exercícios físicos liberam endorfinas, melhorando o humor e a autoestima, além de promoverem oportunidades de socialização, cruciais para o bem-estar emocional.
 
-Entretanto, os exercícios físicos não apenas melhoram a saúde física, mas também desempenham um papel essencial na saúde mental. Atividades como caminhadas, yoga e musculação são eficazes na redução dos níveis de estresse e na melhora do humor e da autoestima. Estudos indicam que a prática regular de exercícios físicos pode retardar a progressão de transtornos neuropsiquiátricos e aumentar a qualidade do sono, outro fator crucial para a saúde mental dos idosos. Além disso, a socialização promovida pela prática de atividades em grupo tem um efeito protetor contra o isolamento social e seus efeitos deletérios.
+Além de melhorar a saúde física, os exercícios físicos desempenham um papel essencial na saúde mental. Atividades como caminhadas, yoga e musculação são eficazes na redução dos níveis de estresse e na melhora do humor e da autoestima. Estudos indicam que a prática regular de exercícios físicos pode retardar a progressão de transtornos neuropsiquiátricos e aumentar a qualidade do sono, outro fator crucial para a saúde mental dos idosos. Além disso, a socialização promovida pela prática de atividades em grupo tem um efeito protetor contra o isolamento social e seus efeitos deletérios.
 
-Sendo assim, percebe-se a necessidade de uma solução tecnológica e prática, na qual seja capaz de auxiliar e manter os usuários engajados quando se trata de uma vida fisicamente ativa e forneça suporte de profissionais da área.
+Portanto, identifica-se a necessidade de uma solução tecnológica e prática que auxilie e mantenha os idosos engajados em uma vida fisicamente ativa, oferecendo suporte de profissionais da área.
 
-O projeto Senectus busca, então, solucionar esse problema, de forma didática, sempre instruindo o usuário e focando na forma como os idosos abordam sua saúde e bem-estar, ajudando a superar os desafios do sedentarismo, da solidão e da depressão, e melhorando significativamente sua qualidade de vida.
+O projeto Senectus busca solucionar esse problema de forma didática, sempre instruindo o usuário e focando na maneira como os idosos abordam sua saúde e bem-estar, ajudando a superar os desafios do sedentarismo, da solidão e da depressão, melhorando significativamente sua qualidade de vida.
 
 ## Objetivos
 
 ### Objetivo geral
 
-O projeto Senectus visa desenvolver uma aplicação web voltada aos idosos para os engajar em atividades físicas, retardando o aumento de indivíduos sedentários no Brasil e melhorando a qualidade de vida dos usuários.
+O projeto Senectus tem como objetivo desenvolver uma aplicação web voltada aos idosos, visando engajá-los em atividades físicas, reduzir o número de indivíduos sedentários no Brasil e melhorar a qualidade de vida dos usuários.
 
 ### Objetivos específicos
 
 1. Conscientizar os idosos sobre a importância da realização de atividade física.
-2. Organizar parcerias com grupos e instituições da área para possibilitar a criação de eventos de atividade física presenciais.
-3. Organizar parcerias com profissionais de saúde para fornecer serviços especializados aos usuários na plataforma.
-4. Aplicar uma interface fácil de usar e intuitiva para garantir que os usuários possam acessar facilmente todas as informações e recursos oferecidos pela plataforma Senectus.
+2. Estabelecer parcerias com grupos e instituições da área para possibilitar a criação de eventos presenciais de atividade física.
+3. Estabelecer parcerias com profissionais de saúde para fornecer serviços especializados aos usuários na plataforma.
+4. Desenvolver uma interface fácil de usar e intuitiva para garantir que os usuários possam acessar facilmente todas as informações e recursos oferecidos pela plataforma Senectus.
 5. Fornecer uma biblioteca ampla de exercícios físicos.
 6. Conectar o público idoso por meio de eventos físicos e remotos promovidos por grupos da área.
 7. Promover acessibilidade para o público idoso menos experiente em tecnologias por meio de tutoriais e outras fontes informativas.
