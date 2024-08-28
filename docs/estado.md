@@ -1,4 +1,4 @@
-# 2. ESTADO DA ARTE
+# ESTADO DA ARTE
 
 O impacto da atividade física na saúde e no bem-estar tem sido amplamente reconhecido, com diversos benefícios físicos e mentais para todas as fases da vida. Ao contrário, o sedentarismo é um fator de risco para diversas doenças crônicas, como hipertensão e diabete, e é particularmente preocupante entre as mulheres adultas, das quais 70,2% apresentam excesso de peso e mais de 37% são obesas, de acordo com dados da Sesa (Secretaria de Estado da Saúde) [9].
 
