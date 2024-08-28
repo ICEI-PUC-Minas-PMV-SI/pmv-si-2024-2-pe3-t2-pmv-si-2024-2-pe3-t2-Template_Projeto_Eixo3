@@ -19,3 +19,7 @@
 **[9]** - _Saúde destaca os benefícios da atividades físicas em todas as fases da vida. Disponível em: https://www.saude.pr.gov.br/Noticia/Saude-destaca-os-beneficios-da-atividades-fisicas-em-todas-fases-da-vida#:~:text=A%20atividade%20f%C3%ADsica%20reduz%20o,a%20socializa%C3%A7%C3%A3o%20e%20a%20conviv%C3%AAncia_
 
 **[10]** - Estudo demonstra benefícios da atividade física para o aprendizado. Disponivel em: _https://ensinoepesquisa.einstein.br/fiquepordentro/noticia/pesquisa-demonstra-beneficios-da-atividade-fisica-para-o-aprendizado_
+
+**[11]** - O risco e gastos com o sedentarismo. Disponivel em: https://brasil.un.org/pt-br/102689-oms-lança-novas-diretrizes-sobre-atividade-física-e-comportamento-sedentário%C2%A0
+
+**[12]** - Os benefícios dos exercícios físicos. Disponível em: https://pubmed.ncbi.nlm.nih.gov/21694556/
