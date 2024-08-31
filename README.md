@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/37eed97c-9cbd-4c7c-a22c-1100fba8ead0" alt="senectus-banner"/>
+</div>
+
 # Senectus
 
 `CURSO: Sistemas de Informação`
