@@ -1,14 +1,10 @@
 # 1. INTRODUÇÃO
 
-As plataformas de doação online emergiram como ferramentas essenciais na era digital, facilitando a conexão entre doadores e organizações não governamentais (ONGs) ou pessoas necessitadas. Com a crescente utilização da internet e dispositivos móveis, a forma como as doações são realizadas está em constante evolução. Hoje, mais do que nunca, a facilidade de uso e a confiança em plataformas digitais são cruciais para maximizar o impacto das doações.
-
-Segundo dados da ONG World Giving Index, mais de 50% das doações globais são realizadas online, um número que cresce a cada ano. No entanto, muitas plataformas de doação ainda enfrentam desafios significativos, como interfaces de usuário complexas, falta de transparência nas transações, e dificuldades na personalização da experiência do doador. Esses obstáculos podem desmotivar potenciais doadores e dificultar a arrecadação de itens, especialmente para ONGs menores ou causas emergentes.
-
-Neste contexto, quem sofre são os necessitados que buscam todo o apoio possível para minimizar suas carências de necessidades básicas. Assim o grupo decidiu produzir uma solução para tentar abrandar ou solucionar os problemas enfrentados por essas pessoas.
+As plataformas de doação online emergiram como ferramentas essenciais na era digital, facilitando a conexão entre doadores a pessoas necessitadas. Com a crescente utilização da internet e dispositivos móveis, a forma como as doações são realizadas está em constante evolução. Hoje, mais do que nunca, a facilidade de uso e a confiança em plataformas digitais são cruciais para maximizar o impacto das doações.
 
 ## 1.1. Problema
 
-As doações desempenham um papel crucial no suporte a ONGs e pessoas em situações de vulnerabilidade. No entanto, o processo de doação, especialmente em plataformas online, ainda enfrenta vários desafios que limitam sua eficácia e alcance. Esses problemas afetam tanto os doadores quanto as organizações que dependem dessas doações para operar.
+As doações desempenham um papel crucial no suporte a grupos e pessoas em situações de vulnerabilidade. No entanto, o processo de doação, especialmente em plataformas online, ainda enfrenta vários desafios que limitam sua eficácia e alcance. Esses problemas afetam tanto os doadores quanto as organizações que dependem dessas doações para operar.
 
 **Principais Problemas Identificados:**
 
@@ -28,20 +24,18 @@ Nem todos os sites de doações são acessíveis a pessoas com deficiência ou a
 
 **Objetivo Geral**
 
-O objetivo geral deste trabalho é desenvolver um software, na forma de um site de doações, que facilite e otimize o processo de doação para doadores e organizações beneficiadas, abordando os principais problemas identificados, como a dificuldade de navegação, falta de transparência, e acessibilidade limitada. A proposta é criar uma plataforma intuitiva e segura que incremente a eficiência das doações, aumentando o engajamento dos doadores e melhorando a gestão das campanhas pelas ONGs e indivíduos necessitados.
+Desenvolver o sistema web "Doe Aqui", com o propósito de facilitar e otimizar o processo de doação de bens, como roupas, móveis e outros objetos em bom estado, conectando de forma eficiente doadores a organizações beneficiadas. A plataforma será intuitiva e segura, promovendo uma experiência ágil e confiável para maximizar o impacto das doações e aprimorar a gestão das campanhas.
 
 **Objetivos Específicos**
 
 * Desenvolver uma Interface de Usuário Intuitiva e Acessível:
-Criar um design simples e claro que permita aos doadores navegar facilmente pelo site e completar suas doações de forma rápida e sem complicações.
-Garantir que a plataforma seja acessível a todos os públicos, incluindo pessoas com deficiência, por meio da implementação de práticas de design universal.
+Criar um design simples e claro que permita aos doadores navegar facilmente pelo site e completar suas doações de forma rápida e sem complicações, garantindo acessibilidade universal.
 
 * Implementar Mecanismos de Transparência e Confiança:
-Desenvolver funcionalidades que permitam aos doadores rastrear suas doações e verificar o impacto gerado, aumentando a transparência e a confiança no processo.
-Integrar ferramentas que garantam a autenticidade das ONGs e campanhas apresentadas no site, minimizando o risco de fraudes e garantindo a segurança das transações.
+Fornecer funcionalidades que permitam aos doadores rastrear suas doações e verificar o impacto gerado, aumentando a transparência e a confiança no processo.
 
 * Fornecer Ferramentas de Gestão Eficientes para ONGs e Indivíduos:
-Desenvolver um painel administrativo para ONGs e indivíduos que possibilite a gestão eficiente das campanhas de doação, incluindo funcionalidades para personalização, comunicação com doadores, e acompanhamento dos resultados.
+Desenvolver um painel administrativo que permita a gestão eficiente das campanhas de doação, incluindo personalização, comunicação com doadores e acompanhamento dos resultados.
 
 ## 1.3. Justificativa
 
