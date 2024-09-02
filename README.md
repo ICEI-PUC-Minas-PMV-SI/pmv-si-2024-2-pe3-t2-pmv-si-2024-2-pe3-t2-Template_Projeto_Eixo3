@@ -15,7 +15,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Guilherme de Souza Mendonça Silva
 * Isaac Samuel de Carvalho
 * Matheus Godinho Blaselbauer
-* Nome completo do aluno 6
+* Yan Guimaraes Martins
 
 ## Orientador
 
