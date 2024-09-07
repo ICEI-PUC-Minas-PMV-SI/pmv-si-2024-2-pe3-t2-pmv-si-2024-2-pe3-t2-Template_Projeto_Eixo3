@@ -20,13 +20,12 @@ O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcela
 
 | # | Benefício | Valor para o Cliente |
 |--------------------|------------------------------------|----------------------------------------|
-| 1 | Facilidade na consulta de exercícios  | Essencial |
-| 2 | Diversidade de exercícios | Essencial |
-| 3 | Clareza e simplicidade dos exercícios  | Essencial |
-| 4 | Acessibilidade para idosos com pouca experiência digital | Essencial |
-| 5 | Facilidade na busca por profissionais | Essencial |
-| 6 | Facilidade em cadastrar profissionais | Essencial |
-| 7 | Conexão entre eventos físicos e virtuais | Recomendável |
+| 1 | Facilidade no acesso de um amplo catalogo de exercícios variados | Essencial |
+| 2 | Acessibilidade para idosos com pouca experiência digital | Essencial |
+| 3 | Acesso rápido e sem necessidade de cadastro | Essencial |
+| 4 | Facilidade na busca por profissionais | Essencial |
+| 5 | Facilidade em cadastrar profissionais | Essencial |
+| 6 | Conexão entre eventos físicos e virtuais | Recomendável |
 
 ## 3.3 Descrição geral do produto
 
