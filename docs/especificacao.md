@@ -13,12 +13,13 @@ O produto que será criado neste projeto será denominado "Senectus" que da trad
 - **Gestor de cadastro de profissionais**: componente dedicado a gerenciar o fluxo de cadastro de novos profissionais no Senectus;
 - **Gestor de eventos remotos e presenciais**: componente dedicado a fornecer meios de cadastro de novos eventos relacionados a saúde e exercícios por profissionais. Além disso, o componente também é responsável por permitir a pesquisa destes eventos e fornecer informações sobre como participar;
 - **Gestor de pesquisa de profissionais**: componente dedicado a gerenciar o fluxo de pesquisa de profissionais da área da saúde, fornecendo os meios de contato mais adequados do mesmo.
+- **Página de blog**: componente dedicado a fornecer conteúdos e recomendações sobre saúde e bem estar para o grupo da terceira idade;
 
 ### 3.2.2 Missão do produto
 Senectus visa fornecer informações e ferramentas para o melhorar a qualidade de vida dos idosos. Trazendo assim, novos meios de contato com profissionais da saúde, uma coletânea de informações sobre exercícios físicos adequados para o público e uma série de eventos das quais os usuários podem participar.
 
 ### 3.2.3 Limites do produto
-Senectus apesar de fornecer os meios de contatos e informações de eventos, não é responsável por promover nenhum meio de comunicação dentro da plataforma, utilizando-se assim, de sistemas externos, como, por exemplo, os clientes de email e telefone responsáveis para estabelecer um meio de comunicação entre o idoso e o profissional, ou links de formulários externos para permitir que os organizadores de eventos coletem informações dos participantes. Além disso, Senectus não armazena os vídeos de instruções de exercícios, necessitando, assim, de uma plataforma externa para tal.
+Senectus apesar de fornecer os meios de contatos e informações de eventos, não é responsável por promover nenhum meio de comunicação ou pagamento dentro da plataforma, utilizando-se assim, de sistemas externos, como, por exemplo, os clientes de email e telefone responsáveis para estabelecer um meio de comunicação entre o idoso e o profissional, ou links de formulários externos para permitir que os organizadores de eventos coletem informações dos participantes. Além disso, Senectus não armazena os vídeos de instruções de exercícios, necessitando, assim, de uma plataforma externa para tal.
 
 ### 3.2.4 Benefícios do produto
 
