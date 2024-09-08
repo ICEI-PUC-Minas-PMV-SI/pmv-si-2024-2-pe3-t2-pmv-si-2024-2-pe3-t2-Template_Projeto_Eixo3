@@ -49,9 +49,9 @@ O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcela
 
 | Ator | Descrição |
 |--------------------|------------------------------------|
-| Fisioterapeuta |	Usúario profissional da saúde que deseja encontrar novas formas de divulgação do seu trabalho com idosos. |
-| Filho de Idoso |	Usúario que necessita contratar um profissional para auxiliar seu pai. |
-| Idoso |	Usúario da terceira idade com compreensão das tecnologias e que deseja encontrar um profissional de saúde ou instruções para realizar exercícios em casa, como alongamentos. |	
+| Fisioterapeuta |	Usuário profissional da saúde que deseja encontrar novas formas de divulgação do seu trabalho com idosos. |
+| Filho de Idoso |	Usuário que necessita contratar um profissional para auxiliar seu pai. |
+| Idoso |	Usuário da terceira idade com compreensão das tecnologias e que deseja encontrar um profissional de saúde ou instruções para realizar exercícios em casa, como alongamentos. |	
 
 ## 3.4 Modelagem do Sistema
 
