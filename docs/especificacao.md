@@ -8,22 +8,17 @@ Descrever e especificar as necessidades da Coordenação do Curso de Sistemas de
 ## 3.2 Escopo do produto
 
 ### 3.2.1 Nome do produto e seus componentes principais
-O produto que será criado neste projeto será denominado "Senectus" que da tradução direta para o português, significa idoso, referenciando o público alvo que o sistema visa atingir. Para que o sistema Senectus seja capaz de atingir seus objetivos, o mesmo terá os seguintes componentes:
+O produto que será criado neste projeto será denominado "Senectus" que da tradução direta do latim para o português, significa idoso, referenciando o público alvo que o sistema visa atingir. Para que o sistema Senectus seja capaz de atingir seus objetivos, o mesmo terá os seguintes componentes:
 - **Biblioteca de Exercícios**: componente dedicado a exibir uma biblioteca de exercícios em formato de vídeo, fornecendo instruções de execução para os idosos;
-- **Gestor de cadastro de profissionais**: componente dedicado gerenciar o fluxo de cadastro de novos profissionais no Senectus;
-- **Gestor de eventos remotos e presenciais**: componente dedicado a fornecer meios cadastro de novos eventos relacionados a saúde e exercícios por profissionais. Além disso, o componente também é responsável por permitir a pesquisa destes eventos e fornecer informações sobre como participar;
+- **Gestor de cadastro de profissionais**: componente dedicado a gerenciar o fluxo de cadastro de novos profissionais no Senectus;
+- **Gestor de eventos remotos e presenciais**: componente dedicado a fornecer meios de cadastro de novos eventos relacionados a saúde e exercícios por profissionais. Além disso, o componente também é responsável por permitir a pesquisa destes eventos e fornecer informações sobre como participar;
 - **Gestor de pesquisa de profissionais**: componente dedicado a gerenciar o fluxo de pesquisa de profissionais da área da saúde, fornecendo os meios de contato mais adequados do mesmo.
 
-> **Texto de exemplo**: O produto será denominado SCCA – Sistema de Cadastro de Cursos de Aperfeiçoamento. Ele terá somente um componente (módulo) com os devidos elementos necessários à gestão de cursos.
-
 ### 3.2.2 Missão do produto
-Senectus visa fornecer informações e ferramentas para o melhorar a qualidade de vida dos idosos. Trazendo assim, novos meios de contato com profissionais da saúde, uma coletânea de informações sobre exercícios físicos adequados para o público e uma serie de eventos das quais os usuários podem participar.
-
-> **Texto de exemplo**: Gerenciar informações sobre a oferta de cursos de aperfeiçoamento, gerenciar a composição das turmas, alunos, professores e matrículas. 
+Senectus visa fornecer informações e ferramentas para o melhorar a qualidade de vida dos idosos. Trazendo assim, novos meios de contato com profissionais da saúde, uma coletânea de informações sobre exercícios físicos adequados para o público e uma série de eventos das quais os usuários podem participar.
 
 ### 3.2.3 Limites do produto
 Senectus apesar de fornecer os meios de contatos e informações de eventos, não é responsável por promover nenhum meio de comunicação dentro da plataforma, utilizando-se assim, de sistemas externos, como, por exemplo, os clientes de email e telefone responsáveis para estabelecer um meio de comunicação entre o idoso e o profissional, ou links de formulários externos para permitir que os organizadores de eventos coletem informações dos participantes. Além disso, Senectus não armazena os vídeos de instruções de exercícios, necessitando, assim, de uma plataforma externa para tal.
-> **Texto de exemplo**: O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcelas do curso, pagamento a professore e agendamentos. O SCCA não contempla o atendimento a vários cursos de Sistemas de Informação de outras unidades da PUC Minas.
 
 ### 3.2.4 Benefícios do produto
 
