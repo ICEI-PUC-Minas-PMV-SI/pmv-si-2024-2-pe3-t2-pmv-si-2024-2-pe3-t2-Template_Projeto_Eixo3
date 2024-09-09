@@ -25,10 +25,13 @@ Senectus apesar de fornecer os meios de contatos e informações de eventos, nã
 
 | # | Benefício | Valor para o Cliente |
 |--------------------|------------------------------------|----------------------------------------|
-|1	| Facilidade no cadastro de dados |	Essencial |
-|2 | Facilidade na recuperação de informações | Essencial | 
-|3 | Segurança no cadastro de matrículas | Essencial | 
-|4	| Melhoria na comunicação com os alunos	| Recomendável | 
+| 1 | Facilidade no acesso de um amplo catalogo de exercícios variados | Essencial |
+| 2 | Acessibilidade para idosos com pouca experiência digital | Essencial |
+| 3 | Acesso rápido e sem necessidade de cadastro | Essencial |
+| 4 | Facilidade na busca por profissionais | Essencial |
+| 5 | Facilidade em cadastrar profissionais | Essencial |
+| 6 | Acesso ao blog de conteúdos | Recomendável |
+| 7 | Conexão entre eventos físicos e virtuais | Recomendável |
 
 ## 3.3 Descrição geral do produto
 
