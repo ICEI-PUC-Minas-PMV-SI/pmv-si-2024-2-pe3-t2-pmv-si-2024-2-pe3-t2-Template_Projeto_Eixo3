@@ -25,7 +25,8 @@ O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcela
 | 3 | Acesso rápido e sem necessidade de cadastro | Essencial |
 | 4 | Facilidade na busca por profissionais | Essencial |
 | 5 | Facilidade em cadastrar profissionais | Essencial |
-| 6 | Conexão entre eventos físicos e virtuais | Recomendável |
+| 6 | Acesso ao blog de conteúdos | Recomendável |
+| 7 | Conexão entre eventos físicos e virtuais | Recomendável |
 
 ## 3.3 Descrição geral do produto
 
