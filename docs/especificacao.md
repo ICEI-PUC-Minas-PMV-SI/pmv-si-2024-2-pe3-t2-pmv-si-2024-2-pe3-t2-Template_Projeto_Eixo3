@@ -50,7 +50,7 @@ O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcela
 | Ator | Descrição |
 |--------------------|------------------------------------|
 | Profissional da Saúde |	Usuário profissional da saúde que deseja encontrar novas formas de divulgação do seu trabalho com idosos. |
-| Familiar de Idoso |	Usuário que necessita contratar um profissional para auxiliar seu pai. |
+| Familiar de Idoso |	Familiar que necessita contratar um profissional para auxiliar seu parente. |
 | Idoso |	Usuário da terceira idade com compreensão das tecnologias e que deseja encontrar um profissional de saúde ou instruções para realizar exercícios em casa, como alongamentos. |	
 | Organizador de Evento | Usuário que deseja divulgar melhor o evento com foco no público de terceira idade em que é responsável. |
 
