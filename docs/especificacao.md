@@ -117,7 +117,7 @@ A Figura 2 mostra o diagrama de classes do sistema. A Matrícula deve conter a i
 
 #### Figura 2: Diagrama de Classes do Sistema.
  
-![dcu](https://lucid.app/lucidchart/7c3482e2-7a16-4a1a-8860-d9817a0bb182/edit?viewport_loc=-1015%2C-58%2C2874%2C1896%2C0_0&invitationId=inv_853fc45c-219f-4702-a90e-3d8b29749cc1)
+![dcu](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe3-t2-g3-doeaqui/blob/8d780048edc7a97ab349a4ca9026644a1868932f/Diagrama%20de%20classes.pdf)
 
 ### 3.4.4 Descrições das Classes 
 
