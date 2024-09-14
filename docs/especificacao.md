@@ -31,30 +31,29 @@ O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcela
 
 | Código | Requisito Funcional (Funcionalidade) | Descrição |
 |--------------------|------------------------------------|----------------------------------------|
-| RF1 | Página inicial |	O usuário deve escolher se deseja doar ou arrecadar |
-| RF2 |	Pesquisar pontos de coleta	| O sistema deve permitir que o usuário pesquise o que ele deseja doar para encontrar pontos de coleta |
-| RF3	| Instruções de doação |	O sistema precisa apresentar intruções de como doar |
-| RF4	| Cadastro de ponto de coleta |	O sistema deve permitir o cadastro de um ponto de coleta |
-| RF5	| Gerenciamento de ponto de coleta |	O sistema deve permitir o gerenciamento do ponto de coleta: editar, salvar e excluir |
-| RF6	| Listagem de pontos de coleta |	O sistema deve listar os pontos de coleta |
-| RF7	| Informações do ponto de coleta |	O sistema deve abrir as informações do ponto de coleta ao clicar |
+| RF1 | Página inicial |	O usuário deve escolher se deseja doar ou arrecadar. |
+| RF2	| Cadastro de ponto de coleta |	O sistema deve permitir o cadastro de um ponto de coleta. |
+| RF3 |	Pesquisar pontos de coleta	| O sistema deve permitir que o usuário pesquise o que ele deseja doar para encontrar pontos de coleta. |
+| RF4	| Instruções de doação |	O sistema precisa apresentar intruções de como doar. |
+| RF5	| Gerenciamento de ponto de coleta |	O sistema deve permitir o gerenciamento do ponto de coleta: editar, salvar e excluir. |
+| RF6	| Listagem de pontos de coleta |	O sistema deve listar os pontos de coleta. |
+| RF7	| Informações do ponto de coleta |	O sistema deve abrir as informações do ponto de coleta ao clicar. |
 
 ### 3.3.2 Requisitos Não Funcionais
 
 | Código | Requisito Não Funcional (Restrição) |
 |--------------------|------------------------------------|
-| RNF1 | O ambiente operacional a ser utilizado é o Windows XP. |
-| RNF2 | O sistema deverá executar em um computador configurado com uma impressora de tecnologia laser ou de jato de tinta, a ser usada para impressão dos relatórios. |
-| RNF3 |	Segurança	O produto deve restringir o acesso por meio de senhas individuais para o usuário. |
-| ... |	... |	... |
+| RNF1 | O sistema deve garantir a segurança dos dados de acordo com a LGPD. |
+| RNF2 | O sistema deve possibilitar qualquer realização de tarefas em no máximo 4 cliques. |
+| RNF3 |	O sistema deve processar requisições dos usuários de no máximo 3 segundos. |
+| RNF4 |	O sistema deve ser desenvolvido na tecnologia JavaScript/React. |
 
 ### 3.3.3 Usuários 
 
 | Ator | Descrição |
 |--------------------|------------------------------------|
-| Coordenador |	Usuário gerente do sistema responsável pelo cadastro e manutenção de cursos de aperfeiçoamento. Possui acesso geral ao sistema. |
-| Secretaria |	Usuário responsável por registros de alunos, professores, turmas e gerência de matrículas. |
-| ... |	... |	... |
+| Arrecadador |	Usuário responsável por anunciar, organizar e receber doações. |
+| Doador |	Usuário que vai procurar pontos de coleta para realizar sua doação. |
 
 ## 3.4 Modelagem do Sistema
 
