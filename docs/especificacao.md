@@ -1,4 +1,4 @@
-# 3. DOCUMENTO DE ESPECIFICAÇÃO DE REQUISITOS DE SOFTWARE
+![image](https://github.com/user-attachments/assets/6674d584-67c9-4a22-931f-cb139790c523)# 3. DOCUMENTO DE ESPECIFICAÇÃO DE REQUISITOS DE SOFTWARE
 
 Nesta parte do trabalho você deve detalhar a documentação dos requisitos do sistema proposto de acordo com as seções a seguir. Ressalta-se que aqui é utilizado como exemplo um sistema de gestão de cursos de aperfeiçoamento.
 
@@ -31,9 +31,14 @@ O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcela
 
 | Código | Requisito Funcional (Funcionalidade) | Descrição |
 |--------------------|------------------------------------|----------------------------------------|
-| RF1 | Gerenciar Curso de Aperfeiçoamento |	Processamento de Inclusão, Alteração, Exclusão e Consulta de Cursos de Aperfeiçoamento |
-| RF2 |	Gerenciar Professor	| Processamento de Inclusão, Alteração, Exclusão e Consulta de professores |
-| RF3	| Gerenciar Matrícula |	Processamento de Inclusão, Alteração, Exclusão e Consulta de Matrículas de alunos em Cursos de Aperfeiçoamento |
+| RF1 | Página inicial |	O usuário deve escolher se deseja doar ou arrecadar |
+| RF2 |	Pesquisar pontos de coleta	| O sistema deve permitir que o usuário pesquise o que ele deseja doar para encontrar pontos de coleta |
+| RF3	| Instruções de doação |	O sistema precisa apresentar intruções de como doar |
+| RF4	| Cadastro de ponto de coleta |	O sistema deve permitir o cadastro de um ponto de coleta |
+| RF5	| Gerenciamento de ponto de coleta |	O sistema deve permitir o gerenciamento do ponto de coleta: editar, salvar e excluir |
+| RF6	| Listagem de pontos de coleta |	O sistema deve listar os pontos de coleta |
+| RF7	| Informações do ponto de coleta |	O sistema deve abrir as informações do ponto de coleta ao clicar |
+
 | ... |	...	| ... |
 
 ### 3.3.2 Requisitos Não Funcionais
