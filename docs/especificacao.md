@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6674d584-67c9-4a22-931f-cb139790c523)# 3. DOCUMENTO DE ESPECIFICAÇÃO DE REQUISITOS DE SOFTWARE
+# 3. DOCUMENTO DE ESPECIFICAÇÃO DE REQUISITOS DE SOFTWARE
 
 Nesta parte do trabalho você deve detalhar a documentação dos requisitos do sistema proposto de acordo com as seções a seguir. Ressalta-se que aqui é utilizado como exemplo um sistema de gestão de cursos de aperfeiçoamento.
 
@@ -38,8 +38,6 @@ O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcela
 | RF5	| Gerenciamento de ponto de coleta |	O sistema deve permitir o gerenciamento do ponto de coleta: editar, salvar e excluir |
 | RF6	| Listagem de pontos de coleta |	O sistema deve listar os pontos de coleta |
 | RF7	| Informações do ponto de coleta |	O sistema deve abrir as informações do ponto de coleta ao clicar |
-
-| ... |	...	| ... |
 
 ### 3.3.2 Requisitos Não Funcionais
 
