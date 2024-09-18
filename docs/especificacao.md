@@ -60,60 +60,55 @@ O Doe Aqui não fornece nenhuma forma de entrega ou recolhimento de doações.
 ## 3.4 Modelagem do Sistema
 
 ### 3.4.1 Diagrama de Casos de Uso
-Como observado no diagrama de casos de uso da Figura 1, a secretária poderá gerenciar as matrículas e professores no sistema, enquanto o coordenador, além dessas funções, poderá gerenciar os cursos de aperfeiçoamento.
+
+Como observado no diagrama de casos de uso da Figura 1, o usuario poderá exercer dois papeis no sistema, o de doador e o de arrecadador, o primeiro com a possibilidade  de listar pontos de coleta, e o segundo com o poder de gerenciar os pontos de coleta, criando, atualizando e excluindo.
 
 #### Figura 1: Diagrama de Casos de Uso do Sistema.
 
-![dcu](https://github.com/user-attachments/assets/41f6b731-b44e-43aa-911f-423ad6198f47)
+![dcu](./images/Diagrama-casos-de-uso.jpg)
  
 ### 3.4.2 Descrições de Casos de Uso
 
-Cada caso de uso deve ter a sua descrição representada nesta seção. Exemplo:
+#### Listar Ponto de Coleta (CSU01)
 
-#### Gerenciar Professor (CSU01)
+Sumário: O usuário consulta os pontos de coleta de acordo com os critérios de seu interesse.
 
-Sumário: A Secretária realiza a gestão (inclusão, remoção, alteração e consulta) dos dados sobre professores.
+Ator Primário: Doador / Arrecadador.
 
-Ator Primário: Secretária.
-
-Ator Secundário: Coordenador.
-
-Pré-condições: A Secretária deve ser validada pelo Sistema.
+Pré-condições: N/A.
 
 Fluxo Principal:
 
-1) 	A Secretária requisita manutenção de professores.
-2) 	O Sistema apresenta as operações que podem ser realizadas: inclusão de um novo professor, alteração de um professor, a exclusão de um professor e a consulta de dados de um professor.
-3) 	A Secretária seleciona a operação desejada: Inclusão, Exclusão, Alteração ou Consulta, ou opta por finalizar o caso de uso.
-4) 	Se a Secretária desejar continuar com a gestão de professores, o caso de uso retorna ao passo 2; caso contrário o caso de uso termina.
+1)  O usuário acessa o sistema para buscar pontos de coleta.
+2) 	O sistema apresenta uma lista de pontos de coleta com base na localização do usuário.
+3) 	O usuário seleciona um ponto de coleta para visualizar seus detalhes.
 
 Fluxo Alternativo (3): Inclusão
 
-a)	A Secretária requisita a inclusão de um professor. <br>
-b)	O Sistema apresenta uma janela solicitando o CPF do professor a ser cadastrado. <br>
-c)	A Secretária fornece o dado solicitado. <br>
-d)	O Sistema verifica se o professor já está cadastrado. Se sim, o Sistema reporta o fato e volta ao início; caso contrário, apresenta um formulário em branco para que os detalhes do professor (Código, Nome, Endereço, CEP, Estado, Cidade, Bairro, Telefone, Identidade, Sexo, Fax, CPF, Data do Cadastro e Observação) sejam incluídos. <br>
-e)	A Secretária fornece os detalhes do novo professor. <br>
-f)	O Sistema verifica a validade dos dados. Se os dados forem válidos, inclui o novo professor e a grade listando os professores cadastrados é atualizada; caso contrário, o Sistema reporta o fato, solicita novos dados e repete a verificação. <br>
+a) O Arrecadador solicita a inclusão de um ponto de coleta. <br>
+b) O sistema apresenta uma janela solicitando informações do ponto de coleta. <br>
+c) O Arrecadador fornece os dados solicitados. <br>
+d) O sistema verifica se o ponto de coleta já está cadastrado. Se sim, o sistema informa o Arrecadador e retorna ao início; caso contrário, apresenta um formulário em branco para que os detalhes do ponto de coleta sejam preenchidos. <br>
+e) O sistema verifica a validade dos dados. Se os dados forem válidos, inclui o novo ponto de coleta; caso contrário, informa o erro, solicita novos dados e repete a verificação. <br>
 
 Fluxo Alternativo (3): Remoção
 
-a)	A Secretária seleciona um professor e requisita ao Sistema que o remova. <br>
-b)	Se o professor pode ser removido, o Sistema realiza a remoção; caso contrário, o Sistema reporta o fato. <br>
+a) O Arrecadador seleciona um ponto de coleta e solicita sua remoção. <br>
+b) Se o ponto de coleta puder ser removido, o sistema realiza a remoção; caso contrário, informa o Arrecadador. <br>
 
 Fluxo Alternativo (3): Alteração
 
-a)	A Secretária altera um ou mais dos detalhes do professor e requisita sua atualização. <br>
-b)	O Sistema verifica a validade dos dados e, se eles forem válidos, altera os dados na lista de professores, caso contrário, o erro é reportado. <br>
+a) O Arrecadador altera um ou mais detalhes do ponto de coleta e solicita sua atualização. <br>
+b) O sistema verifica a validade dos dados e, se forem válidos, atualiza as informações; caso contrário, informa o erro. <br>
  
-Fluxo Alternativo (3): Consulta
+Fluxo Alternativo (3): Detalhes
 
-a)	A Secretária opta por pesquisar pelo nome ou código e solicita a consulta sobre a lista de professores. <br>
-b)	O Sistema apresenta uma lista professores. <br>
-c)	A Secretária seleciona o professor. <br>
-d)	O Sistema apresenta os detalhes do professor no formulário de professores. <br>
+a) O Arrecadador opta por visualizar os detalhes de um ponto de coleta. <br>
+b) O sistema apresenta uma lista de pontos de coleta. <br>
+c) O Arrecadador seleciona o ponto de coleta desejado. <br>
+d) O sistema apresenta os detalhes do ponto de coleta em um formulário. <br>
 
-Pós-condições: Um professor foi inserido ou removido, seus dados foram alterados ou apresentados na tela.
+Pós-condições: Um ponto de coleta foi inserido, removido, seus dados foram alterados ou apresentados na tela.
 
 ### 3.4.3 Diagrama de Classes 
 
