@@ -125,11 +125,12 @@ A Figura 2 mostra o diagrama de classes do sistema. A Matrícula deve conter a i
 
 ### 3.4.4 Descrições das Classes 
 
-| # | Nome | Descrição |
-|--------------------|------------------------------------|----------------------------------------|
-| 1	|	Aluno |	Cadastro de informações relativas aos alunos. |
-| 2	| Curso |	Cadastro geral de cursos de aperfeiçoamento. |
-| 3 |	Matrícula |	Cadastro de Matrículas de alunos nos cursos. |
-| 4 |	Turma |	Cadastro de turmas.
-| 5	|	Professor |	Cadastro geral de professores que ministram as disciplinas. |
-| ... |	... |	... |
+| # | Nome | Atributos | Métodos | Descrição |
+|--------------------|------------------------------------|----------------------------------------|------------------------------------|------------------------------------|
+| 1	|	Usuário | nome:String, e-mail:String, dataCadastro:Date | reclamar() |	Cadastro de informações e metodos relativos aos Usuários. |
+| 2	| PJ | CNPJ:Number | setCNPJ(), adicionarCliente(), excluirCliente(), editarCliente(), rastrearDoacoes() |	Cadastro de informações e metodos relativos as Pessoas Jurídicas. |
+| 3 |	PF | CPF:Number | setCPF(), doar() |	Cadastro de informações e metodos relativos as Pessoas Físicas. |
+| 4 |	Doação |	nomeItem:String, descricaoItem:String, condicoes:String | adicionarDoacao() |	Cadastro de informações e metodos relativos as Doações. |
+| 5	|	CNPJ |	CNPJ:Number |  |	Cadastro de informações relativos aos CNPJ. |
+| 6	|	CPF |	CPF:Number |  |	Cadastro de informações relativos aos CPF. |
+| 7	|	Interface Panel | | adicionarCliente(String), excluirCliente(String), editarCliente(String), rastearDoacoes() |	Cadastro de métodos relativos ao Interface Panel. |
