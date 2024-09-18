@@ -1,20 +1,60 @@
 # 1. INTRODUÇÃO
 
-Contextualizar a área de pesquisa do trabalho, apresentando conceitos e dados relacionados antes de apresentar a problemática a ser investigada.
+As plataformas de doação online emergiram como ferramentas essenciais na era digital, facilitando a conexão entre doadores a pessoas necessitadas. Com a crescente utilização da internet e dispositivos móveis, a forma como as doações são realizadas está em constante evolução. Hoje, mais do que nunca, a facilidade de uso e a confiança em plataformas digitais são cruciais para maximizar o impacto das doações.
 
 ## 1.1. Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. 
-Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
+As doações desempenham um papel crucial no suporte a grupos e pessoas em situações de vulnerabilidade. No entanto, o processo de doação, especialmente em plataformas online, ainda enfrenta vários desafios que limitam sua eficácia e alcance. Esses problemas afetam tanto os doadores quanto as organizações que dependem dessas doações para operar.
+
+**Principais Problemas Identificados:**
+
+* Dificuldade na Navegação e Usabilidade:
+Muitos sites de doações possuem interfaces complexas e pouco intuitivas, o que pode confundir e desmotivar potenciais doadores. A falta de uma navegação simples e clara faz com que o processo de doação seja percebido como demorado e complicado, o que pode resultar na desistência antes da conclusão da doação.
+
+* Falta de Transparência e Confiança:
+Outro problema significativo é a falta de transparência em relação ao destino das doações. Doadores frequentemente questionam se suas contribuições estão realmente sendo usadas para o propósito desejado. Essa falta de clareza pode gerar desconfiança, reduzindo a disposição das pessoas em doar.
+
+* Complexidade para ONGs e Indivíduos que Recebem Doações:
+Para as ONGs e indivíduos que necessitam de doações, a administração e o gerenciamento das campanhas podem ser complicados. Muitas vezes, as ferramentas oferecidas pelos sites de doações são limitadas, dificultando a comunicação com doadores, a personalização das campanhas, e a gestão eficiente dos recursos arrecadados.
+
+* Acessibilidade Limitada:
+Nem todos os sites de doações são acessíveis a pessoas com deficiência ou a públicos que não estão familiarizados com tecnologia. Isso exclui uma parcela significativa da população que poderia contribuir, mas que encontra barreiras técnicas ou de design que tornam a experiência frustrante ou inviável.
 
 ## 1.2. Objetivos do trabalho
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. O objetivo geral deve resumir e apresentar a ideia central de um trabalho, descrevendo também a sua finalidade. Os objetivos específicos darão uma maior delimitação ao tema, além de detalhar os processos necessários para a realização do trabalho.
+**Objetivo Geral**
+
+Desenvolver o sistema web "Doe Aqui", com o propósito de facilitar e otimizar o processo de doação de bens, como roupas, móveis e outros objetos em bom estado, conectando de forma eficiente doadores a organizações beneficiadas. A plataforma será intuitiva e segura, promovendo uma experiência ágil e confiável para maximizar o impacto das doações e aprimorar a gestão das campanhas.
+
+**Objetivos Específicos**
+
+* Desenvolver uma Interface de Usuário Intuitiva e Acessível:
+Criar um design simples e claro que permita aos doadores navegar facilmente pelo site e completar suas doações de forma rápida e sem complicações, garantindo acessibilidade universal.
+
+* Implementar Mecanismos de Transparência e Confiança:
+Fornecer funcionalidades que permitam aos doadores rastrear suas doações e verificar o impacto gerado, aumentando a transparência e a confiança no processo.
+
+* Fornecer Ferramentas de Gestão Eficientes para ONGs e Indivíduos:
+Desenvolver um painel administrativo que permita a gestão eficiente das campanhas de doação, incluindo personalização, comunicação com doadores e acompanhamento dos resultados.
 
 ## 1.3. Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+
+Desde a pandemia, é evidente que a população tem enfrentado desafios significativos com relação à comunicação e interação social. Consequentemente, o funcionamento de sistemas organizacionais também foi comprometido, sendo assim necessária uma solução. A crise gerada após a pandemia é o fator responsável pela redução específica no número de doações e contribuições disponíveis, isso se explica também pela quantidade de Organizações Não Governamentais (ONGs) existentes, atualmente constando como 815.676 ONGs espalhas pelo Brasil, onde apenas 24% da população presta serviços voluntários e 36% doam em forma de dinheiro[1].
+Segundo uma matéria no portal G1 de junho de 2022[2], foi destacado como a diminuição das doações está afetando a capacidade das ONGs em auxiliar as famílias em situação de vulnerabilidade. Com base nesse contexto, será desenvolvido um projeto web, nomeado como "DoeAqui", que permitirá transformar a complexidade dessas problemáticas em tarefas simples novamente.
+
+Para que se possa criar uma aplicação web otimizada, é prioridade a atenção para com a perspectiva do cliente/usuário. Portanto a interface do sistema deve ser limpa e acessível para que a navegação do usuário esteja alinhada com a objetividade do site. 
+Complementando, a segurança do usuário enquanto trafega e a recepção e transmissão de dados é um fator crucial para que se tenha sua confiança e fidelidade, o que requer um processamento prático de informações e consultas. 
+
+Com relação aos usuários jurídicos do "DoeAqui" é prioritária a permissão para o gerenciamento de dados recebidos pelas empresas através das requisições dos usuários, uma vez que sem acesso a esses recursos a comunicação entre as partes(doador e organização)se tornam confusas e difíceis de serem contidas ou registradas. A administração portanto é um conceito útil para que haja congruência e compatibilidade do tráfego das informações contidas no "DoeAqui" com a realidade.
+
+Vemos também a dificuldade de conectar os dois dados: quem quer doar e quem precisa arrecadar. Queremos ser a ponte entre ambos. Uma alternativa atualmente é o projeto [Para quem doar](http://www.paraquemdoar.com.br/), que permite doações financeiras.
+
 
 ## 1.4. Público alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+**Doadores individuais:** são pessoas de várias faixas etárias e origens que desejam apoiar causas com as quais se importam, como instituições de caridade, projetos sociais e organizações sem fins lucrativos. Seus níveis de conhecimento podem variar significativamente; alguns são bem versados ​​nas causas e organizações que apoiam, enquanto outros estão apenas começando sua jornada filantrópica. Tecnologicamente, eles variam desde aqueles que são bastante adeptos de ferramentas digitais até aqueles que podem ter dificuldades em usar plataformas online.
+
+**Voluntários:** esses indivíduos oferecem seu tempo e habilidades para ajudar causas e organizações, envolvendo-se em atividades como trabalho voluntário, arrecadação de fundos e promoção de campanhas. Seus níveis de experiência variam; alguns têm experiência anterior em trabalho voluntário, enquanto outros são novos e aprendem à medida que avançam. Normalmente, eles possuem um nível moderado de proficiência tecnológica, pois geralmente precisam se registrar e se comunicar por meio de plataformas digitais.
+
+**Organizações sem fins lucrativos:** são instituições que buscam apoio financeiro e voluntário para suas causas, incluindo instituições de caridade, abrigos de animais e organizações de ajuda humanitária. Muitas dessas organizações têm uma compreensão sólida de suas necessidades, embora algumas possam exigir orientação para melhor utilizar as plataformas de doação. A familiaridade deles com tecnologias de arrecadação de fundos online varia: alguns são bastante experientes e outros precisam de assistência técnica.
